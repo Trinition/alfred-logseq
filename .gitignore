@@ -1,0 +1,9 @@
+# Build artifacts
+/build/
+/target/
+
+# macOS specific files
+.DS_Store
+
+# Backup files created by scripts
+*.bak
