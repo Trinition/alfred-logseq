@@ -2,7 +2,7 @@
 
 A simple but powerful Alfred workflow to quickly add entries to your daily [LogSeq](https://logseq.com/) journal.
 
-![Screenshot of the LogSeq Alfred Workflow in action](docs/Alfred.png)
+![Screenshot of the LogSeq Alfred Workflow in action](docs/alfred.png)
 
 ## Features
 
